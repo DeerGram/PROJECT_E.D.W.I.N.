@@ -1,0 +1,9 @@
+discord.py
+python-dotenv
+openai
+requests
+google-cloud-speech
+google-cloud-translate
+azure-cognitiveservices-speech
+pydub
+numpy
